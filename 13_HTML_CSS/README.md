@@ -1,0 +1,17 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-html-css-scraping-intro-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-html-introduction-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-html-introduction-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-html5-semantic-elements-online-ds-pt-041519
+- Repo added: https://github.com/learn-co-students/html-links-lab-online-ds-pt-041519
+- Repo added: https://github.com/learn-co-students/researching-HTML-elements-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-separating-content-and-presentation-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-intro-to-css-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-css-code-along-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-my-little-rainbow-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-web-scraping-with-beautiful-soup-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-web-scraping-in-practice-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-web-scraping-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-scraping-images-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-scraping-concerts-lab-online-ds-pt-041519.git
+- Repo added: https://github.com/learn-co-students/dsc-html-css-scraping-recap-online-ds-pt-041519.git
